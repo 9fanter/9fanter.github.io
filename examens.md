@@ -8,8 +8,8 @@ permalink: /examens/
 
 | Type | Date | Matière | Fait ? | Où ? |
 |------|------------|-----------------------------------|--------|-------------------------------|
-| CC1  | 28/09/2026 | Mathématiques 1                   | ❌     |                                |
-| CC1  | 29/09/2026 | Mécanique 1 et Electricité         | ❌     | 1A (A→L), 3B (M→Z)            |
+| CC1  | 28/09/2026 | Mathématiques 1                   | ✅     |                                |
+| CC1  | 29/09/2026 | Mécanique 1 et Electricité         | ✅     | 1A (A→L), 3B (M→Z)            |
 | CC1  | 10/10/2026 | Intéraction maths physique        | ❌     |                                |
 | CC2  | 17/10/2026 | Mathématiques 1                   | ❌     |                                |
 | CC1  | 24/10/2026 | Chimie                            | ✅     |                                |
