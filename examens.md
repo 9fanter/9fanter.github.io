@@ -10,9 +10,9 @@ permalink: /examens/
 |------|------------|-----------------------------------|--------|-------------------------------|
 | CC1  | 28/09/2026 | Mathématiques 1                   | ✅     |                                |
 | CC1  | 29/09/2026 | Mécanique 1 et Electricité         | ✅     | 1A (A→L), 3B (M→Z)            |
-| CC1  | 10/10/2026 | Intéraction maths physique        | ❌     |                                |
 | CC2  | 17/10/2026 | Mathématiques 1                   | ❌     |                                |
-| CC1  | 24/10/2026 | Chimie                            | ✅     |                                |
+| CC1  | 24/10/2026 | Intéraction maths physique        | ❌     |                                |
+| CC1  | 24/10/2026 | Chimie                            | Déjà validé|                                |
 | CC2  | 14/11/2026 | Intéraction maths physique        | ❌     |                                |
 | CC2  | 17/11/2026 | Mécanique 1 et Electricité         | ❌     | 1A (A→L), 5C (M→Z)            |
 | CC3  | 30/11/2026 | Mathématiques 1                   | ❌     |                                |
